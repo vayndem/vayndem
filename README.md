@@ -1,7 +1,7 @@
 <h1 align="center">Greetings Haikal Abror Here</h1>
 <h3 align="center">I am a students at University of Semarang that specializing in Full-Stack development, with a strong knowledge of web development and user interfaces. I have hands-on experience in building APIs and integrating them into scalable web applications to enhance functionality and user experience. I possess strong collaboration and communication skills, able to work effectively within a team.</h3>
 
-- 🌱 I’m currently learning **ON UI/UX with mySKill**
+- 🌱 I’m currently learning **Scalability and Responsive**
 
 - 👨‍💻 All of my projects are available at [https://haikalabror.vercel.app/](https://haikalabror.vercel.app/)
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **abrorhaikal@gmail.com**
 
-- ⚡ Fun fact **I Learning Based on JS and can Integrated AI to website system**
+- ⚡ Fun fact **I Learning Based on JS and python capable to be Integrated AI to my system**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
