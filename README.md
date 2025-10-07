@@ -1,4 +1,12 @@
 <h1 align="center">Greetings Haikal Abror Here</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python" alt="Python Version">
+  <img src="https://img.shields.io/badge/JavaScript-ES6%2B-yellow?style=for-the-badge&logo=javascript" alt="JavaScript Version">
+  <img src="https://img.shields.io/badge/Vue.js-3-green?style=for-the-badge&logo=vue.js" alt="Vue.js Version">
+  <img src="https://img.shields.io/badge/Lisensi-Proprietary-red?style=for-the-badge" alt="License">
+</p>
+
 <h3 align="center">I am a students at University of Semarang that specializing in Full-Stack development, with a strong knowledge of web development and user interfaces. I have hands-on experience in building APIs and integrating them into scalable web applications to enhance functionality and user experience. I possess strong collaboration and communication skills, able to work effectively within a team.</h3>
 
 - 🌱 I’m currently learning **Scalability and Responsive**
