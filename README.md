@@ -80,6 +80,5 @@ Berikut adalah beberapa teknologi dan alat yang saya kuasai:
 
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vayndem&show_icons=true&locale=id&theme=radical&hide_border=true" alt="GitHub Stats Haikal" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vayndem&layout=compact&locale=id&theme=radical&hide_border=true" alt="Top Languages Haikal" />
 </p>
