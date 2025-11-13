@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python" alt="Python Version">
   <img src="https://img.shields.io/badge/Vue.js-3-green?style=for-the-badge&logo=vue.js" alt="Vue.js Version">
   <img src="https://img.shields.io/badge/Node.js-LTS-blueviolet?style=for-the-badge&logo=node.js" alt="Node.js Version">
+  <img src="https://img.shields.io/badge/Laravel-12-red?style=for-the-badge&logo=laravel" alt="Laravel Version">
 </p>
 
 I am a **student at the University of Semarang** with a strong passion for web development.  
