@@ -1,7 +1,9 @@
-<h1 align="center">
-  👋 Halo, saya Haikal Abror!
-</h1>
-<h3 align="center">Full-Stack Developer | AI Enthusiast | Spesialis Vue.js & Python</h3>
+<!-- Animated Wave Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:22D3EE&height=180&section=header&text=Hello%20I'm%20Haikal%20Abror!%20👋&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
+
+<h3 align="center">Full-Stack Developer | AI Enthusiast | Vue.js & Python Specialist</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python" alt="Python Version">
@@ -9,17 +11,18 @@
   <img src="https://img.shields.io/badge/Node.js-LTS-blueviolet?style=for-the-badge&logo=node.js" alt="Node.js Version">
 </p>
 
-Saya adalah seorang mahasiswa di **Universitas Semarang** yang memiliki hasrat tinggi dalam dunia pengembangan web. Saya berfokus pada **Full-Stack Development** dengan keahlian mendalam dalam membangun antarmuka pengguna yang interaktif serta API yang andal dan skalabel.
+I am a **student at the University of Semarang** with a strong passion for web development.  
+My focus is on **Full-Stack Development**, with deep expertise in building interactive user interfaces and developing reliable, scalable APIs.
 
-- 🚀 Saat ini saya sedang memperdalam **Arsitektur Sistem yang Skalabel** dan **Desain Web yang Responsif** untuk menciptakan aplikasi yang optimal di semua perangkat.
-- 💡 Saya memiliki minat khusus dalam mengintegrasikan **Kecerdasan Buatan (AI)**, terutama menggunakan **Google Gemini**, ke dalam aplikasi berbasis JavaScript dan Python.
-- 💬 Saya sangat terbuka untuk berdiskusi mengenai **Vue.js, Gemini, ERP, dan WMS**. Jangan ragu untuk bertanya!
+- 🚀 Currently exploring **Scalable System Architecture** and **Responsive Web Design** to create optimized applications across all devices.  
+- 💡 I have a special interest in integrating **Artificial Intelligence (AI)** — particularly using **Google Gemini** — into JavaScript and Python-based applications.  
+- 💬 Always open to discussions about **Vue.js, Gemini, ERP, and WMS**. Feel free to reach out!
 
 ---
 
 ### 🛠️ **Tech Stack & Tools**
 
-Berikut adalah beberapa teknologi dan alat yang saya kuasai:
+Here are some of the technologies and tools I work with:
 
 <p align="left">
   <strong>Frontend:</strong><br>
@@ -63,10 +66,10 @@ Berikut adalah beberapa teknologi dan alat yang saya kuasai:
 
 ---
 
-### 📫 **Mari Terhubung!**
+### 📫 **Let's Connect!**
 
-- **Portofolio:** Kunjungi semua proyek saya di **[haikalabror.vercel.app](https://haikalabror.vercel.app/)**
-- **Email:** Hubungi saya melalui **[abrorhaikal@gmail.com](mailto:abrorhaikal@gmail.com)**
+- **Portfolio:** Explore my projects at **[haikalabror.vercel.app](https://haikalabror.vercel.app/)**  
+- **Email:** Reach me at **[abrorhaikal@gmail.com](mailto:abrorhaikal@gmail.com)**  
 
 <p align="left">
   <a href="https://linkedin.com/in/haikal-abror" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haikal abror" height="30" width="40" /></a>
@@ -76,10 +79,13 @@ Berikut adalah beberapa teknologi dan alat yang saya kuasai:
 
 ---
 
-### 📊 Statistik GitHub Saya
-
+### 📊 **My GitHub Stats**
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vayndem&layout=compact&locale=id&theme=radical&hide_border=true" alt="Top Languages Haikal" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vayndem&layout=compact&locale=en&theme=radical&hide_border=true" alt="Top Languages Haikal" />
 </p>
 
+<!-- Animated Wave Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:4F46E5&height=120&section=footer" />
+</p>
