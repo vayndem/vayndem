@@ -12,14 +12,19 @@
   <img src="https://img.shields.io/badge/Laravel-12-red?style=for-the-badge&logo=laravel" alt="Laravel Version">
 </p>
 
-I am a **student at the University of Semarang** with a strong passion for web development.  
-My focus is on **Full-Stack Development**, with deep expertise in building interactive user interfaces and developing reliable, scalable APIs.
+# Building the Next Generation of Web Apps 🚀
 
-- 🚀 Currently exploring **Scalable System Architecture** and **Responsive Web Design** to create optimized applications across all devices.  
-- 💡 I have a special interest in integrating **Artificial Intelligence (AI)** — particularly using **Google Gemini** — into JavaScript and Python-based applications.  
-- 💬 Always open to discussions about **Vue.js, Gemini, ERP, and WMS**. Feel free to reach out!
+I am a **Full-Stack Developer** with a proven track record of delivering high-performance web applications. I specialize in merging **Scalable System Architecture** with modern **Responsive Design** to create seamless user experiences on any device.
+
+Beyond standard development, I engineer intelligent systems by integrating **Google Gemini AI** into JavaScript and Python environments, transforming static apps into smart solutions.
+
+### 🛠 My Technical Focus
+- **Complex Systems:** Developing robust **ERP & WMS** solutions that drive business efficiency.
+- **Frontend Mastery:** Crafting reactive, high-speed interfaces with **Vue.js**.
+- **AI-Driven Development:** Leveraging LLMs for smarter application logic.
 
 ---
+💬 *Always open to professional discussions about **Vue.js, Gemini, ERP, and System Architecture**. Feel free to reach out!*
 
 ### 🛠️ **Tech Stack & Tools**
 
