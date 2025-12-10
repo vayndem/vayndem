@@ -1,97 +1,81 @@
-<!-- Animated Wave Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:22D3EE&height=180&section=header&text=Hello%20I'm%20Haikal%20Abror!%20👋&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:34d399,100:ec4899&height=180&section=header&text=Haikal%20Abror%20Here!&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Vue.js%20&%20Python&descFontSize=20&descAlignY=55&descAlign=50" />
 </p>
-
-<h3 align="center">Full-Stack Developer | AI Enthusiast | Vue.js & Python Specialist</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python" alt="Python Version">
-  <img src="https://img.shields.io/badge/Vue.js-3-green?style=for-the-badge&logo=vue.js" alt="Vue.js Version">
-  <img src="https://img.shields.io/badge/Node.js-LTS-blueviolet?style=for-the-badge&logo=node.js" alt="Node.js Version">
-  <img src="https://img.shields.io/badge/Laravel-12-red?style=for-the-badge&logo=laravel" alt="Laravel Version">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white">
 </p>
 
-# Building the Next Generation of Web Apps 🚀
+<br/>
 
-I am a **Full-Stack Developer** with a proven track record of delivering high-performance web applications. I specialize in merging **Scalable System Architecture** with modern **Responsive Design** to create seamless user experiences on any device.
+<h1 align="center">Building the Next Generation of Web Apps 🚀</h1>
 
-Beyond standard development, I engineer intelligent systems by integrating **Google Gemini AI** into JavaScript and Python environments, transforming static apps into smart solutions.
-
-### 🛠 My Technical Focus
-- **Complex Systems:** Developing robust **ERP & WMS** solutions that drive business efficiency.
-- **Frontend Mastery:** Crafting reactive, high-speed interfaces with **Vue.js**.
-- **AI-Driven Development:** Leveraging LLMs for smarter application logic.
-
----
-💬 *Always open to professional discussions about **Vue.js, Gemini, ERP, and System Architecture**. Feel free to reach out!*
-
-### 🛠️ **Tech Stack & Tools**
-
-Here are some of the technologies and tools I work with:
-
-<p align="left">
-  <strong>Frontend:</strong><br>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
+<p align="center">
+  I am a <b>Full-Stack Developer</b> with a proven track record of delivering high-performance web applications. I specialize in merging <b>Scalable System Architecture</b> with modern <b>Responsive Design</b> to create seamless user experiences.
+  <br><br>
+  Beyond standard development, I engineer intelligent systems by integrating <b>Google Gemini AI</b> into JavaScript and Python environments.
 </p>
 
-<p align="left">
-  <strong>Backend:</strong><br>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-</p>
-
-<p align="left">
-  <strong>Database:</strong><br>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-</p>
-
-<p align="left">
-  <strong>AI & Data Science:</strong><br>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
-</p>
-
-<p align="left">
-  <strong>Tools & Platforms:</strong><br>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+<p align="center">
+  <b>🛠 Technical Focus</b><br>
+  Developing robust <b>ERP & WMS</b> solutions • Crafting reactive interfaces with <b>Vue.js</b> • Leveraging LLMs for smarter logic.
 </p>
 
 ---
 
-### 📫 **Let's Connect!**
+<h3 align="left">🛠️ <b>Tech Stack & Tools</b></h3>
 
-- **Portfolio:** Explore my projects at **[haikalabror.vercel.app](https://haikalabror.vercel.app/)**  
-- **Email:** Reach me at **[abrorhaikal@gmail.com](mailto:abrorhaikal@gmail.com)**  
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vue,react,js,tailwind" perline="4" />
+      <br><b>Frontend</b>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,py,php,laravel" perline="5" />
+      <br><b>Backend</b>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongo,mysql,postgres" perline="3" />
+      <br><b>Database</b>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" perline="3" />
+      <br><b>AI / ML</b>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git,gcp,figma,docker" perline="4" />
+      <br><b>DevOps/Tools</b>
+    </td>
+  </tr>
+</table>
 
-<p align="left">
-  <a href="https://linkedin.com/in/haikal-abror" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haikal abror" height="30" width="40" /></a>
-  <a href="https://instagram.com/haikal.abror" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haikal.abror" height="30" width="40" /></a>
-  <a href="https://fb.com/haikal.abror" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="haikal abror" height="30" width="40" /></a>
-</p>
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vayndem&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vayndem&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
+</div>
 
 ---
 
-### 📊 **My GitHub Stats**
+<h3 align="center">📫 <b>Let's Connect!</b></h3>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vayndem&layout=compact&locale=en&theme=radical&hide_border=true" alt="Top Languages Haikal" />
+  <a href="https://haikalabror.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-34d399?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="mailto:abrorhaikal@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-ec4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://linkedin.com/in/haikal-abror">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
-<!-- Animated Wave Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:4F46E5&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,100:34d399&height=120&section=footer" />
 </p>
