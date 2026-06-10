@@ -1,16 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:a855f7,100:ec4899&height=200&section=header&text=Haikal%20Abror&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20ERP%20Architect%20•%20AI%20Integrator&descFontSize=16&descAlignY=60&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:6366f1,50:a855f7,100:ec4899&height=250&section=header&text=Haikal%20Abror&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=45&stroke=ffffff&strokeWidth=1&desc=Full-Stack%20Developer%20·%20ERP%20Architect%20·%20AI%20Integrator&descFontSize=17&descAlignY=65&descAlign=50&descFontColor=e2e8f0" />
 </p>
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=I+architect+systems+that+scale.;ERP+%26+WMS+%7C+Vue.js+%7C+AI+Integration;Turning+complexity+into+clean+code." alt="Typing SVG" />
+</p>
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║   I don't just write code — I architect systems that scale.     ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white">
+</p>
 
 <br/>
 
@@ -58,21 +59,6 @@ My daily work involves designing ERP & WMS platforms that handle real business c
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=haikal-abror&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=ffffff"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haikal-abror&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haikal-abror&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=ec4899&currStreakLabel=6366f1" />
-</p>
-
-<br/>
-
----
-
 <h2 align="center">🏆 Core Expertise</h2>
 
 <div align="center">
@@ -113,6 +99,21 @@ Injecting **Google Gemini AI** into Python & JavaScript workflows for smarter de
 
 ---
 
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=vayndem&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=ffffff"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vayndem&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vayndem&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=ec4899&currStreakLabel=6366f1" />
+</p>
+
+<br/>
+
+---
+
 <h2 align="center">🌐 Let's Connect</h2>
 
 <p align="center">
@@ -128,13 +129,17 @@ Injecting **Google Gemini AI** into Python & JavaScript workflows for smarter de
   <a href="https://linkedin.com/in/haikal-abror">
     <img src="https://img.shields.io/badge/LinkedIn-haikal--abror-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  &nbsp;
+  <a href="https://github.com/vayndem">
+    <img src="https://img.shields.io/badge/GitHub-vayndem-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
 
 <br/>
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=haikal-abror&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=vayndem&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
