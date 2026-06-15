@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=I+architect+systems+that+scale.;ERP+%26+WMS+%7C+Vue.js+%7C+AI+Integration;Turning+complexity+into+clean+code." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=I+architect+systems+that+scale.;ERP+%26+WMS+%7C+Automation+%7C+AI+Integration;Turning+complexity+into+clean+code." alt="Typing SVG" />
 </p>
 
 <p align="center">
