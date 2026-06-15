@@ -99,21 +99,6 @@ Injecting **Google Gemini AI** into Python & JavaScript workflows for smarter de
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=vayndem&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=ffffff"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vayndem&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vayndem&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=ec4899&currStreakLabel=6366f1" />
-</p>
-
-<br/>
-
----
-
 <h2 align="center">🌐 Let's Connect</h2>
 
 <p align="center">
